@@ -4,7 +4,7 @@
         <label class="col-4">Sexe :</label> 
         <div class="col-8">
             <div class="custom-control custom-radio custom-control-inline">
-                <input name="radio" id="radio_0" type="radio" aria-describedby="radioHelpBlock" checked="checked" class="custom-control-input" value="h" required="required" tabindex="1">
+                <%--<input name="radio" id="radio_0" type="radio" aria-describedby="radioHelpBlock" checked="checked" class="custom-control-input" value="h" required="required" tabindex="1">--%>
                 <label for="radio_0" class="custom-control-label">Homme</label>
             </div>
             <div class="custom-control custom-radio custom-control-inline">
