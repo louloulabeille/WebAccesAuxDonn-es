@@ -1,2 +1,2 @@
-﻿select c.CategoryName, p.ProductID, p.ProductName,p.UnitPrice from Products as p inner join Categories as c on p.CategoryID = c.CategoryID
+﻿select c.CategoryName as "Categorie Produit", p.ProductID as "Produit identifiant", p.ProductName as "Nom du produit",p.UnitPrice as "Prix unitaire" from Products as p inner join Categories as c on p.CategoryID = c.CategoryID
 order by c.CategoryName

@@ -1,0 +1,1 @@
+﻿select distinct CategoryID, CategoryName from Categories order by CategoryName
