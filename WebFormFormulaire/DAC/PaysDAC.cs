@@ -9,6 +9,9 @@ using System.Data;
 
 namespace DAC
 {
+    /// <summary>
+    /// git feacture toto
+    /// </summary>
     public class PaysDAC
     {
         private static PaysDAC _instance = null;

@@ -10,6 +10,9 @@ using Newtonsoft.Json;
 
 namespace DAC
 {
+   /// <summary>
+   /// git feacture/toto
+   /// </summary>
     public class UserInfoDAC
     {
         private static UserInfoDAC _instance = null;
